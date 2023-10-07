@@ -1,0 +1,25 @@
+.ab{
+
+font-size: largest;
+color: rgb(192, 3, 183);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+tr{
+
+font-size: large;
+color: rgb(255, 0, 140);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ol{
+font-size: large;
+color: rgb(255, 0, 149);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul{
+
+font-size: larger;
+color: rgb(255, 0, 157);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
